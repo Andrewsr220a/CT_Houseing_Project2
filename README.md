@@ -2,6 +2,7 @@
 By Dataviz House Hunters
 Team Members: Joby Augustine, Angelica Robles, Ra Ish Andrews 
 
+![home-image](https://user-images.githubusercontent.com/77027814/145307763-5b34dacb-3107-4c9c-a277-70c27178dceb.jpeg)
 
 ### Project analyses the Single-Family Residence Sale prices and the Rental prices in U.S. in a region, county or State. 
 
