@@ -65,7 +65,7 @@ The analysis helps the Homeowners, investors and real estate agents in predictin
 
 - Real Estate Agents – helps to get a pulse of the market.
 
-- Based on the "Top 10 most Expensive Morgage Payment" graphs, we can see that by giving the 20 percent down payment on a house our monthly mortgage payment would be less than the monthly rent, this won’t be the case if we would give only 3 percent as downpayment, however, equity would be built.
+- Based on the "Top 10 most Expensive Mortgage Payment" graphs, we can see that by giving the 20 percent down payment on a house our monthly mortgage payment would be less than the monthly rent, this won’t be the case if we would give only 3 percent as downpayment, however, equity would be built.
 
 - The "Rent Price over time on the top 5 most expensive States" graph, we can see the 5 top states with the highest sales price and it’s price change during time. We can see there is a positive tendency for the sales price over time. 
 
