@@ -17,6 +17,9 @@ https://www.kaggle.com/paultimothymooney/zillow-house-price-data/version/14?sele
 
 ## ETL Process
 
+![ETL_Bannera](https://user-images.githubusercontent.com/77027814/146242419-c5a7effd-64f4-404f-8644-3a3b00ac770d.gif)
+
+
 ETL is performed using **python and pandas** with the steps below:
 
 
@@ -65,7 +68,11 @@ The analysis helps the Homeowners, investors and real estate agents in predictin
 
 - Real Estate Agents – helps to get a pulse of the market.
 
+![Graph](https://github.com/Andrewsr220a/Zillow-Analysis/blob/6c22003591e1b56372fa68c215758e14a7468258/ImagesHouseHunters/Top10States.png)
+
 - Based on the "Top 10 most Expensive Mortgage Payment" graphs, we can see that by giving the 20 percent down payment on a house our monthly mortgage payment would be less than the monthly rent, this won’t be the case if we would give only 3 percent as downpayment, however, equity would be built.
+
+![Graph](https://github.com/Andrewsr220a/Zillow-Analysis/blob/6c22003591e1b56372fa68c215758e14a7468258/ImagesHouseHunters/Top5States.png)
 
 - The "Rent Price over time on the top 5 most expensive States" graph, we can see the 5 top states with the highest sales price and it’s price change during time. We can see there is a positive tendency for the sales price over time. 
 
